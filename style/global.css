@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header-home {
+    height: 800px;
+    background: url('../images/cover2.jpeg') 40% 90% no-repeat fixed;
+}
+
+#header-skills {
+    height: 200px;
+    background-color: rgb(219, 169, 61);
+    color: white;
+}
+
+#header > div {
+    text-align: center;
+}
+
